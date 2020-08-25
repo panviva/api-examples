@@ -43,7 +43,9 @@ Python 2.7 and 3.4+
 
 | # | Sample Name | Description  | API Type | Link |
 | - | ----------- | ------------ | -------- | ---- |
-| 1.| python-sdk-get-doc | A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers`  | Content APIs  | [LINK](https://github.com/panviva/samples-python/tree/master/python-sdk-get-doc)|
-
+| 1. | get-document-properties-only | A simple Python example to show how to get the metadata of a document from Panviva's APIs, utilizing `GET Document` | Content APIs | COMING SOON |
+| 2. | get-document-properties-and-content |A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` | Content APIs | COMING SOON |
+| 3.| get-document-properties-and-content-as-plaintext | A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` as plain-text | Content APIs  | [LINK](https://github.com/panviva/samples-python/tree/master/python-sdk-get-doc)|
+| 4. | get-documents-updated-this-month |A simple Python example to show how to get a list of documents recently updated from Panviva's APIs, utilizing `GET Search` | Content APIs | COMING SOON |
 
 
