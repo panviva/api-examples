@@ -11,7 +11,7 @@ The samples below will consume:
 
 ## **Prerequisites**
 
-### To use the Panviva SDK, you must have:
+### To use this, you must have:
 
 1. Access to a Panviva instance (also known as a tenant)
 2. A developer account on the Panviva developer portal ([dev.panviva.com](https://dev.panviva.com))
