@@ -37,14 +37,14 @@ To get your instance name you must:
 
 ### Other requirements
 
-Python 2.7 and 3.4+
+- Python 2.7 and 3.4+
+- pip
+- [virutalenv](https://docs.python-guide.org/dev/virtualenvs/) or pyenv
 
 ## Samples
 
 | # | Sample Name | Description  | API Type | Link |
 | - | ----------- | ------------ | -------- | ---- |
-| 1. | get-document-properties-and-content |A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` | Content APIs | COMING SOON |
-| 2.| get-document-properties-and-content-as-plaintext | A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` as plain-text | Content APIs  | [LINK](https://github.com/panviva/samples-python/tree/master/python-sdk-get-doc)|
-| 3. | get-documents-updated-this-month |A simple Python example to show how to get a list of documents recently updated from Panviva's APIs, utilizing `GET Search` | Content APIs | COMING SOON |
-
-
+| 1. | get-document-properties-and-content | A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` | Content APIs | [LINK](get-document-properties-and-content/README.md) |
+| 2. | get-document-properties-and-content-as-plaintext | A simple Python example to show how to get the metadata and content of a document from Panviva's APIs, utilizing `GET Document` and `GET Document Containers` as plain-text | Content APIs | [LINK](get-document-properties-and-content-as-plaintext/README.md) |
+| 3. | get-documents-updated-this-month | A simple Python example to show how to get a list of documents recently updated from Panviva's APIs, utilizing `GET Search` | Content APIs | [LINK](get-documents-updated-this-month/README.md) |
